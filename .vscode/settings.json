@@ -1,0 +1,6 @@
+{
+    "nuxt.isNuxtApp": false,
+    "python.analysis.extraPaths": [
+        "./starter_code"
+    ]
+}
